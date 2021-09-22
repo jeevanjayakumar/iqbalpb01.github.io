@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Jeevan Jaykumar"
+title = "Jeevan Jayakumar"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
